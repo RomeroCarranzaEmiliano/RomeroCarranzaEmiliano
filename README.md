@@ -3,17 +3,15 @@ _I'm a human being named Emi_
 
 <img align="right" width="380" height="300" src="https://media3.giphy.com/media/13PbEUgXtEOzPa/giphy.gif?cid=790b76114d5465d80898cb6cffd76aabe360c713820810bf&rid=giphy.gif&ct=g">
 
-- My life's dream is making webscrapers for money
+- React dev @CIDS
 - 🇪🇦 ES 🇬🇧 EN and learning 🇭🇺 HU
 - 📫 romerocarranzaemiliano@gmail.com
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 <!--
