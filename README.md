@@ -3,7 +3,7 @@ _I'm a human being named Emi_
 
 <img align="right" width="380" height="300" src="https://media3.giphy.com/media/13PbEUgXtEOzPa/giphy.gif?cid=790b76114d5465d80898cb6cffd76aabe360c713820810bf&rid=giphy.gif&ct=g">
 
-- React dev @CIDS
+- React dev @CodeAssurance
 - 🇪🇦 ES 🇬🇧 EN and learning 🇭🇺 HU
 - 📫 romerocarranzaemiliano@gmail.com
 
